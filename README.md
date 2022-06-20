@@ -1,1 +1,2 @@
-# Show_num_string_in_file
+Create and read file
+Show num of string in file
